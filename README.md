@@ -179,10 +179,10 @@ python app.py
 Computer Science and Business Systems (CSBS)  
 Medicaps University
 
-**Mayank Pawar**  
+**Parag Fadnis**  
 Computer Science and Engineering (CSE)  
 Medicaps University  
-GitHub: [github.com/Mayankpawar28](https://github.com/Mayankpawar28)
+
 
 ---
 
